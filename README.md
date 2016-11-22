@@ -1,2 +1,2 @@
 # offical-blocks
-DIREKTSPEED Framework Blocks - (Backends + Frontends) Modular
+DIREKTSPEED Framework Modules - (Backends + Frontends) Modular
